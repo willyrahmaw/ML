@@ -1,5 +1,0 @@
-pip
-tensorflow
-numpy
-joblib
-scikit-learn
